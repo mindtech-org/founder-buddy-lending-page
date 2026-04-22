@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "buddai",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["http-server", "/Users/andreaskraus/Documents/andreaskraus.at/buddai-onepager", "-p", "8090", "-c-1"],
+      "port": 8090
+    }
+  ]
+}
